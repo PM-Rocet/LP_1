@@ -3,3 +3,4 @@ if number % 2 == 0:
     print(number, "четное")
 else:
     print(number, "нечетное")
+print('Новая функция')
